@@ -18,4 +18,4 @@ if __name__=='__main__':
     obj_formated = json.dumps(itemdate,ensure_ascii=False,indent=4)
     filejson.writelines(obj_formated)    
     filejson.close()    
-    print itemdate
+    print obj_formated
