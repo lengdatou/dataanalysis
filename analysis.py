@@ -1,14 +1,14 @@
 #coding:utf-8
 '''
-Created on 2016��3��5��
+Created on 2016/09/10
 
-@author: My
+@author: lengwei
 '''
 
 from datatk.dbcon import MyDB
-import json
-import codecs
 
+import codecs
+import json
 
 time1='00:00:00'
 time2='23:59:59'
